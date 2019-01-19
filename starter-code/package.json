@@ -1,0 +1,23 @@
+{
+  "name": "lab-intro-node",
+  "version": "1.0.0",
+  "description": "Intro Node Lab for Students",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "node",
+    "intro"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {},
+  "devDependencies": {
+    "mocha": "^3.4.2"
+  }
+}
